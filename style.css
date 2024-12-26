@@ -1,0 +1,55 @@
+.navbar a{
+    color: black !important;
+}
+a .studio{
+    color:	#ff3399;
+}
+.flat{
+    padding: auto;
+}
+.flat-off{
+    display: flex;
+}
+.flat-off img{
+    width: 1340px;
+}
+
+.text-bold {
+    font-weight: bold;
+    color: #ff7b00; 
+}
+.text-outline {
+    -webkit-text-stroke: 1px #ff7b00;
+    color: transparent; 
+    font-weight: bold;
+}
+
+.shop-category {
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+.shop-category .outline1-text {
+    -webkit-text-stroke: 1px #0046BE;
+    color: transparent;
+}
+.shop-category .solid-text {
+    color: #0046BE;
+}
+
+p{
+    font-size: 14px;
+}
+
+.h6{
+    font-size: 14px !important;
+}
+.know{
+    padding: 2% 2%;
+}
+.know-more{
+    display: flex;
+}
+.know-more img{
+    width: 1300px;
+} 
